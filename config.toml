@@ -23,8 +23,7 @@ footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/
 
 hermit_menu = [
     { link = "/posts", name = "归档" },
-    { link = "/about", name = "关于" },
-    { link = "/", name = "首页" }
+    { link = "/about", name = "关于" }
 ]
 
 hermit_social = [
