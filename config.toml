@@ -1,4 +1,3 @@
-
 theme = "hermit_zola"
 # The URL the site will be built for
 base_url = "https://libertassss.github.io/my-blog"
@@ -17,19 +16,19 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 
-home_subtitle = "Some profound and catchy statement"
+home_subtitle = "Libertas 的电子书"
 
 footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 hermit_menu = [
-    { link = "/content/something", name = "Posts" },
-    { link = "/about", name = "About" }
+    { link = "/posts", name = "归档" },
+    { link = "/about", name = "关于" }
 ]
 
 hermit_social = [
-    { name = "twitter", link = "https://twitter.com" },
-    { name = "github", link = "https://github.com" },
-    { name = "email", link = "mailto:author@domain.com" }
+    { name = "twitter", link = "https://x.com/libertass214306" },
+    { name = "github", link = "https://github.com/libertassss" },
+    { name = "email", link = "mailto:2767389215@qq.com" }
 ]
 
 [extra.highlightjs]
@@ -37,15 +36,15 @@ enable = true
 clipboard = true
 theme = "vs2015"
 
-[extra.disqus]
-enable = false
-# Take this from your Disqus account
-shortname = "my-supa-dupa-blog"
+# [extra.disqus]
+# enable = false
+# # Take this from your Disqus account
+# shortname = "my-supa-dupa-blog"
 
 [extra.author]
-name = "The Author"
-email = "author@domain.com"
+name = "Libertas"
+email = "2767389215@qq.com"
 
-[extra.google_analytics]
-enable = false
-id = "UA-4XXXXXXX-X"
+# [extra.google_analytics]
+# enable = false
+# id = "UA-4XXXXXXX-X"
