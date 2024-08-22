@@ -1,4 +1,5 @@
 theme = "hermit_zola"
+title = "Liberts的电子书"
 # The URL the site will be built for
 base_url = "https://libertassss.github.io/my-blog"
 
@@ -16,13 +17,14 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 
-home_subtitle = "Libertas 的电子书"
+home_subtitle = "我和谁都不争，和谁争我都不屑，我双手烤着生命之火取暖。火萎了，我也准备走了"
 
 footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 hermit_menu = [
     { link = "/posts", name = "归档" },
-    { link = "/about", name = "关于" }
+    { link = "/about", name = "关于" },
+    { link = "/", name = "首页" }
 ]
 
 hermit_social = [
@@ -37,7 +39,7 @@ clipboard = true
 theme = "vs2015"
 
 # [extra.disqus]
-# enable = false
+# enable = true
 # # Take this from your Disqus account
 # shortname = "my-supa-dupa-blog"
 

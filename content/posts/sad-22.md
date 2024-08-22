@@ -16,7 +16,7 @@ slug='sad-22'
 
 选自惶然录章节
 
-<img src="../../640.webp" />
-<img src="../../640-2.webp" />
-<img src="../../640-3.webp" />
+<img src="../640.png" />
+<img src="../640-2.png" />
+<img src="../640-3.png" />
 
