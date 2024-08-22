@@ -1,5 +1,5 @@
 theme = "hermit_zola"
-title = "Liberts的电子书"
+title = "Libertas的电子书"
 # The URL the site will be built for
 base_url = "https://libertassss.github.io/my-blog"
 
