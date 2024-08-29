@@ -11,10 +11,18 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# taxonomies = [
+#     { name = "sad", feed = true},
+#     { name = "fe", feed = true},
+#     { name = "story", feed = true},
+#     { name = "word", feed = true},
+# ]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
+
 
 [extra]
 # Put all your custom variables here
@@ -24,7 +32,11 @@ home_subtitle = "我和谁都不争，和谁争我都不屑，我双手烤着生
 footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 hermit_menu = [
-    { link = "/posts", name = "归档" },
+    { link = "/posts/sad", name = "伤心太平洋" },
+    # { link = "/sad", name='伤心太平洋' },
+    { link = "/posts/fe", name='老本行' },
+    # { link = "/story", name='小说' },
+    # { link = "/word", name='说话' },
     { link = "/about", name = "友链" }
 ]
 

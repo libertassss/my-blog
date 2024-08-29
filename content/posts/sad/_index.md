@@ -1,5 +1,6 @@
 +++
 title='归档'
+sort_by = "date"
 +++
 
 {% set posts_by_year = section.pages | group_by(attribute="year") %}
