@@ -35,7 +35,7 @@ hermit_menu = [
     { link = "/posts/sad", name = "负能量" },
     # { link = "/sad", name='伤心太平洋' },
     { link = "/posts/fe", name='工作' },
-    { link = "/posts/interest", name='爱好' },
+    { link = "/posts/interest", name='杂谈' },
     # { link = "/story", name='小说' },
     # { link = "/word", name='说话' },
     { link = "/about", name = "友链" }

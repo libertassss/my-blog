@@ -1,5 +1,5 @@
 +++
-title='有趣的事情'
+title='杂谈'
 sort_by = "date"
 +++
 
