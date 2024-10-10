@@ -5,7 +5,7 @@ slug='sad-37'
 +++
 
 <div {% if class %}class="{{class}}"{% endif %}>
-    <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=152891608&auto=0&height=66"></iframe>
+    <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=523379&auto=0&height=66"></iframe>
 </div>
 连续一个多月的心情低落，窝在家里闭门不出，凌晨三四点睡，然后躺到下午一两点，有事就在床上办公，不吃不喝。有时候就在漫无目的的刷视频，试图唤起一些生活的动力，无力的等待一次心灵的觉醒，仅仅是为了让自己有心力去做一件微小的琐事。记忆中好像从小到大都这样，阶段性的心情低落，像这样无数次的无病呻吟，连自己都很是厌烦了。可还是毫无解决办法。
 
